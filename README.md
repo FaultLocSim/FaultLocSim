@@ -5,16 +5,25 @@ This project releases the FL(Fault Localization) dataset of simulation tools(Ive
 
 ## Dependencies
 + Python library dependencies
+
 pandas 2.0.3
+
 python 3.8.18
 
+
 + Project dependencies
+
 You can access the project link to download the corresponding dependencies.
+
 https://github.com/steveicarus/iverilog
+
 https://github.com/verilator/verilator
 
+
 + Other dependencies
+
 GCC 4.8.5
+
 Lcov 1.16
 
 ## Usage
