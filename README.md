@@ -35,7 +35,7 @@ cd FaultLocSim
 mkdir project
 git clone https://github.com/verilator/verilator.git
 ```
-2. Change directory to the 'FaultLocSim/code/verilator' directory and execute `python main.py 1`. `1` means the bug id.
+2. Change directory to the 'FaultLocSim/code/verilator' directory and execute `python main.py bugID`. `bugID` is a integer means the bug id. Use `1` in this example.
 ```
 cd FaultLocSim/code/verilator
 python main.py 1
