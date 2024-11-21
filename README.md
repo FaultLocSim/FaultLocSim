@@ -85,3 +85,6 @@ python main.py 1
 
 	The fault dataset information of Verilator. Similarly to the Iverilog.
 
+Spectrum-based Fault localization method used in experiments: 
+![image](https://github.com/FaultLocSim/FaultLocSim/blob/main/spectrum%20formule.png)
+Refer to the paper for detailed definitions: An evaluation of pure spectrum-based fault localization techniques for large-scale software systems
